@@ -7,6 +7,7 @@
 * `git commit -m "message"` - commit to local repo
 * `git status` - See status of local repo
 * `git log` - View commit log
+* `git remote add origin URL` - Connect local repository to remote URL
 
 
 ### Basic Branching
