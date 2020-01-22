@@ -15,3 +15,7 @@
 * `git branch` - Show branches, current branch
 * `git branch branchName` - Create branch `branchName`
 * `git checkout branchName` - Check out the branch
+* `git checkout -b otherBranch` - Create and checkout `otherBranch`
+* `git pull origin otherBranch` - Pull remote otherBranch
+* `git pull origin master` - Pull remote master into local branch to resolve conflicts
+* `git push origin otherBranch` - Push local branch to Github; go to Github and create pull request.
